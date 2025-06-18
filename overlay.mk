@@ -445,4 +445,5 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote9s \
 	treble-overlay-xiaomi-redminote9t \
 	treble-overlay-xiaomi-redmis2 \
+        treble-overlay-blackshark-penrose \
 
